@@ -1,6 +1,5 @@
 .create-post-wrapper {
-	position: absolute;
-	top: 70px;
+	margin-top: 70px;
 }
 
 .input-wrapper {
@@ -29,4 +28,5 @@
 	padding: 5px 10px;
 	color: white;
 	cursor: pointer;
+	float: right;
 }

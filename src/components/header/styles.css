@@ -1,8 +1,7 @@
 .header-wrapper {
 	position: fixed;
 	top: 0;
-	left: 100px;
-	width: calc(100% - 40%);
+	width: 60%;
 	height: 60px;
 	z-index: 99999;
 	background-color: white;
